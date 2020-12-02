@@ -1,4 +1,4 @@
-numbers = File.readlines('C:/Users/Ben Firestine/Google Drive/Wayne State/Advent of Code/2020/Day_1/input.txt')
+numbers = File.readlines('C:\Users\Ben Firestine\github\Advent-of-Code\2020\Day_1\input.txt')
 
 #loops through all the numbers to find a match
 numbers.each do |num1|
