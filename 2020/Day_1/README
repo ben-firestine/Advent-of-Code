@@ -1,0 +1,3 @@
+For day one, I did it very inefficently by just brute forcing my way through the file. For part 2, this was kinda a problem as it is nested three
+times meaning I could have to run this for 8 million combinations. In the future, I am planning on coming back and improving the algorithm
+so that it is faster and has less combinations to do. But in the meantime, this worked and got me the answer I needed.
