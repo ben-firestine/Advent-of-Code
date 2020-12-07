@@ -1,8 +1,13 @@
 input = File.readlines('C:\Users\Ben Firestine\github\Advent-of-Code\2020\Day_2\input.txt')
 passwords = 0
 
+puts "#{input}"
+
 input. each do |item|
   policy, pass = item.split(':')
+
+  puts "#{policy}"
+  puts "#{pass}"
   policy_requirement, policy_letter = policy.split(' ')
 
   min = policy_requirement.split('-').first
