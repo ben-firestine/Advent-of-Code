@@ -1,0 +1,3 @@
+I had a much easier time with the day 2 problem as I have become more used to Ruby. On top of that, I found it was easier to wrap my head
+around this problem and find a solution that would be the most efficent that I could make it. I think the only thing I could improve on
+is having the if statements in the second day skip to the next password if a valid password is found. 
