@@ -18,7 +18,7 @@ def tree_counter(map, value)
   end
 
   trees
-  
+
 end
 
-puts "The total tree count is: #{tree_counter(input, [1, 3])}"
+puts "The total tree count is: #{[[1, 1], [1, 3], [1, 5], [1, 7], [2, 1]].map{|v| tree_counter(input, v)}.reduce(:*)}"
